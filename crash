@@ -1,0 +1,21 @@
+{
+  "format": "particle",
+  "title": "ERROR 404 PAGE NOT FOUND",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "**PLEASE TRY LATER IM TOO LAZY TO MAKE SHIT RIGHT NOW**",
+      "style": {
+        "text-align": "center",
+        "margin-bottom": 20
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "You pressed the Useless button.\nIts labling was accurate wasnt it?.",
+      "style": {
+        "text-align": "center"
+      }
+    }
+  ]
+}
