@@ -4,6 +4,11 @@
   "content": [
     {
       "type": "button",
+      "label": "8/1/25",
+      "action": "https://iqlvlzero.github.io/8-1-25FUCK/"
+    },
+    {
+      "type": "button",
       "label": "7/31/25",
       "action": "https://iqlvlzero.github.io/7-31-25/"
     }
