@@ -3,6 +3,14 @@
   "title": "Blog Posts",
   "content": [
     {
+      "type": "paragraph",
+      "text": "Here's the archive of my blog posts! open one of the dats to see my life and thoughts! (if your into that sorta thing)",
+      "style": {
+        "text-align": "center",
+        "margin-bottom": 20
+      }
+    },
+    {
       "type": "button",
       "label": "8/1/25",
       "action": "https://iqlvlzero.github.io/8-1-25FUCK/"
