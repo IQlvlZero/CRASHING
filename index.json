@@ -12,6 +12,11 @@
     },
     {
       "type": "button",
+      "label": "8/16/25",
+      "action": "https://iqlvlzero.github.io/8-16-25/"
+    },
+    {
+      "type": "button",
       "label": "8/1/25",
       "action": "https://iqlvlzero.github.io/8-1-25FUCK/"
     },
